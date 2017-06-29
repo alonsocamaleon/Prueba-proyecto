@@ -1,4 +1,4 @@
 hola
 adios
 siempre note
-version 6.0
+version 7.1
